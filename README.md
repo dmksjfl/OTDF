@@ -1,8 +1,8 @@
 # Cross-Domain Offline Policy Adaptation with Optimal Transport and Dataset Constraint
 
-This is the codes for our ICLR 2025 submission, Optimal Transport Data Filtering (OTDF)
+**Authors:** [Jiafei Lyu](https://dmksjfl.github.io/), Mengbei Yan, [Zhongjian Qiao](https://scholar.google.com/citations?user=rFU2fJQAAAAJ&hl=en&oi=ao), [Runze Liu](https://ryanliu112.github.io/), [Xiaoteng Ma](https://xtma.github.io/), [Deheng Ye](https://scholar.google.com/citations?user=jz5XKuQAAAAJ&hl=en&oi=ao), Jingwen Yang, [Zongqing Lu](https://z0ngqing.github.io/), [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en)
 
-Under review, please do not distribute.
+This is the codes for our ICLR 2025 paper, Optimal Transport Data Filtering (OTDF)
 
 ## How to run
 
