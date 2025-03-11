@@ -4,6 +4,10 @@
 
 This is the codes for our ICLR 2025 paper, Optimal Transport Data Filtering (OTDF)
 
+## Method Overview
+
+<img src="https://github.com/dmksjfl/OTDF/blob/master/otdf.png" alt="image" width="600">
+
 ## How to run
 
 To run this repo, you do not need to call `pip install -e .`. We run our experiments with Pytorch 1.8 and Gym version 0.23.1. Other dependencies include: `jax==0.4.9, jaxlib==0.4.9, ott-jax==0.4.5, jaxopt==0.8.3`.
